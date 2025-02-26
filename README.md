@@ -16,17 +16,17 @@ This is a steganography tool that allows users to hide and retrieve secret messa
 
 🛠 Technologies Used:
 
-Technology     Purpose
+Technology:Purpose
 
-Python	       Core programming language
+Python	   :    Core programming language
 
-OpenCV	       Image processing
+OpenCV	   :    Image processing
 
-NumPy	         Numerical operations
+NumPy	     :   Numerical operations
 
-Tkinter	       GUI development
+Tkinter	   :   GUI development
 
-PIL (Pillow)	 Image handling
+PIL (Pillow): Image handling
 
 📥 Installation:
 
